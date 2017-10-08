@@ -4,5 +4,5 @@ Add anything you like.
 
 Change made as collaborator.
 
-Change made in dazzling_feature branch.
+Change made in master branch.
 
