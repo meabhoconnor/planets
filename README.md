@@ -4,5 +4,6 @@ Add anything you like.
 
 Change made as collaborator.
 
-Change made in master branch.
+
+Change made on dazzling_feature - provoke conflict.
 
